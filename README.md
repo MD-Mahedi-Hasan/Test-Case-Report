@@ -2,4 +2,6 @@
 
 ## Project Summary : 
 
-This assignment is about Bug Report of Dmoney-Trnx-API,,Bug report of Bkash App Send Money And Payment Method and also Bug Report for OrangeHRM App.
+- This assignment is about Bug Report of Dmoney-Trnx-API,, And also Bug Report for OrangeHRM App.
+
+- Standard Test Case of Bkash App- Send Money And Payment Method.
